@@ -2,6 +2,7 @@
 title: 빅데이터란?
 categories: [Hadoop]
 tags: [hadoop, bigdata]
+comments : true
 ---
 
 ### 빅데이터 분석이란?  

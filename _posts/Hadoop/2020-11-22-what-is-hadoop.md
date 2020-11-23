@@ -2,6 +2,7 @@
 title: 하둡이란?
 categories: [Hadoop]
 tags: [hadoop, bigdata]
+comments : true
 ---
 
 ### 하둡이란?  
