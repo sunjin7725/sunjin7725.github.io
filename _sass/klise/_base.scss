@@ -135,42 +135,42 @@ figcaption {
 }
 
 // List
-ul {
-  list-style: none;
-  li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-  }
-  li::before {
-    content: "\FE63";
-    display: inline-block;
-    top: -1px;
-    width: 1.2em;
-    position: relative;
-    margin-left: -1.3em;
-    font-weight: 700;
-  }
-}
+// ul {
+//   list-style: none;
+//   li {
+//     display: list-item;
+//     text-align: -webkit-match-parent;
+//   }
+//   li::before {
+//     content: "\0040";
+//     display: inline-block;
+//     top: -1px;
+//     width: 1.2em;
+//     position: relative;
+//     margin-left: -1.3em;
+//     font-weight: 700;
+//   }
+// }
 
-ol {
-  list-style: none;
-  counter-reset: li;
-  li {
-    position: relative;
-    counter-increment: li;
-    &::before {
-      content: counter(li);
-      display: inline-block;
-      width: 1em;
-      margin-right: 0.5em;
-      margin-left: -1.6em;
-      text-align: right;
-      direction: rtl;
-      font-weight: $bold-weight;
-      font-size: $small-font-size;
-    }
-  }
-}
+// ol {
+//   list-style: none;
+//   counter-reset: li;
+//   li {
+//     position: relative;
+//     counter-increment: li;
+//     &::before {
+//       // content: counter(li);
+//       display: inline-block;
+//       width: 1em;
+//       margin-right: 0.5em;
+//       margin-left: -1.6em;
+//       text-align: right;
+//       direction: rtl;
+//       font-weight: $bold-weight;
+//       font-size: $small-font-size;
+//     }
+//   }
+// }
 
 ul,
 ol {
@@ -255,9 +255,8 @@ em {
 
 // Blockquotes
 blockquote {
-  color: $gray;
+  color: $white;
   font-style: italic;
-  text-align: center;
   opacity: 0.9;
   border-top: 1px solid $light;
   border-bottom: 1px solid $light;
