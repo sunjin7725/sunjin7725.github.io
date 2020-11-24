@@ -57,6 +57,8 @@ body[data-theme="dark"] {
   code {
     &.highlighter-rouge {
       background-color: $dark-light;
+      font-weight: bold;
+      color: #be6715;
     }
   }
 
