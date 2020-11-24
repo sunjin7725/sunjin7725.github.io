@@ -61,5 +61,5 @@ NHN은 `NFS`, `CIFS`, `OwFS`, `HDFS` 등의 분산 스토리지를 사용한다.
 <br><br>
 
 ##### Reference  
-[https://wikidocs.net/31537](https://wikidocs.net/31537)
+[https://wikidocs.net/31537](https://wikidocs.net/31537)<br>
 [Naver D2/어떤 분산 파일 시스템을 사용해야 하는가?](https://d2.naver.com/helloworld/258077)
