@@ -5,7 +5,9 @@ layout: page
 comments: false
 ---
 
-빅데이터와 인공지능을 공부하고 있습니다.  
+빅데이터와 인공지능을 공부하고 있습니다.
+
+Mail To : sunjin7725@gmail.com
 
 #### 약력
 
