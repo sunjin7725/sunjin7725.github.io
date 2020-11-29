@@ -54,6 +54,10 @@ layout: compress
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>
             </span>
+            <span style="margin-left: 20px;">
+              <img
+                src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+            </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
