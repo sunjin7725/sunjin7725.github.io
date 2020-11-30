@@ -23,7 +23,11 @@ author:
 url: https://sunjin7725.github.io
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-NNX32T3EFV"
+    anonymize_ip: false # default
 fb_appid:
 
 # Collection setting
