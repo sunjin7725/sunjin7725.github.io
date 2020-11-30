@@ -32,7 +32,7 @@ collections:
     output: true
 
 # Comments setting
-disque_shorname: sunjin7725-github-io
+disqus_shorname: sunjin7725-github-io
 
 # Markdown settings
 kramdown:
