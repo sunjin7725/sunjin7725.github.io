@@ -23,7 +23,7 @@ author:
 url: https://sunjin7725.github.io
 baseurl:
 permalink: /:title/
-google_analytics:
+analytics:
   provider: "google"
   google:
     tracking_id: "G-NNX32T3EFV"
