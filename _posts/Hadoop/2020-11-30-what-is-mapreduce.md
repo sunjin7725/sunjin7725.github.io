@@ -73,3 +73,6 @@ ex)
 ![multi_reducer](/assets/img/post/multi_reducer.png)
 
   일반적인 `집계 작업`의 경우 리듀서가 여러개 생성된다. 리듀서의 수만큼 파일이 생성되며, 추가적인 파일 머지 작업이 필요할 수 있다.
+
+##### Reference  
+[https://wikidocs.net/31519](https://wikidocs.net/22827)
