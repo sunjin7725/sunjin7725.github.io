@@ -31,6 +31,9 @@ collections:
   posts:
     output: true
 
+# Comments setting
+disque_shorname: sunjin7725-github-io
+
 # Markdown settings
 kramdown:
   input: GFM
