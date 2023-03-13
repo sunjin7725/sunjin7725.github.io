@@ -21,8 +21,8 @@ comments : true
 할일은 kubernetes 클러스터를 구축하고 사용할 오픈소스 프로젝트들을 Kubernetes에 설치만 하면 된다. 사실 MLFlow 외에 다른 프로젝트들은 Kubernets에 다올렸지만 글을 올리면 체크박스들을 체크할 예정!   
 위에 구성도에는 없지만 RDBMS도 한개 설치된다.
 - [x] Kubernetes 클러스터 구축하기(실제로는 k3s) [바로가기](/posts/k3s-installation)
-  - helm 설치
-  - 외부 배포용 ingress-controller 설치
+  - helm 설치 [바로가기](/posts/helm-installation)
+  - 외부 배포용 ingress-controller 설치 [바로가기](/posts/ingress-controller)
   - SSL 인증서 갱신을 위한 cert-manager 설치
 - [ ] Rancher 구축하기
 - [ ] Harbor 구축하기

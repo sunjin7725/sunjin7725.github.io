@@ -7,6 +7,7 @@ comments: true
 
 # Helm 설치하기
 ## Helm 이란?
+![Helm](/assets/img/post/helm.png)
 helm은 Kubernetes의 패키지 매너저이다. redhat 기반 os의 yum 이나 debian 계열의 apt와 같은 개념이라고 보면 될것 같다.  
 이런 helm을 쓰면 Kubernetes의 설치할 수 있는 패키지(Rancher에서는 App이라고도 한다)를 쉽게 설치 할 수 있다.
 
