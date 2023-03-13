@@ -2,7 +2,7 @@
 title: Ingress Controller 설치하기
 categories: [kubernetes]
 tags: [kubernetes, mlflow, mlops, devops, ingress]
-comments : true
+comments: true
 ---
 
 # Ingress Controller 설치하기
