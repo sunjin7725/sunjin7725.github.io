@@ -24,7 +24,7 @@ Mail To : sunjin7725@gmail.com
 
 #### 참여 사업
 
-Detail: [Notion Portfolio](https://sunjin7725.notion.site/Seonjin-Kim-dc078f7325f342f99d6b7a9aaf6881c7)
+Detail: [Notion Portfolio](https://sunjin7725.notion.site/Seonjin-Kim-dc078f7325f342f99d6b7a9aaf6881c7){:target="_blank"}
 
 2022.04 ~ 2022.12 / 2022년 빅데이터 플랫폼 고도화 및 분석모델 개발(KCNET) - 해외기업통합정보(Orbis) 검색 시스템 & 해외관세동향 크롤링 <br>2020년 빅데이터시스템 구축 및 분석모델 개발
 2021.05 ~ 2022.01 / 2021년 빅데이터 플랫폼 기반 분석모델 개발 - Elastic Search 및 Python ML을 통한 유사 문서 검색 서비스<br>
