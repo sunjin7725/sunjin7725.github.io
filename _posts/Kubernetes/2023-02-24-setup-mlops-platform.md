@@ -23,7 +23,7 @@ comments : true
 - [x] Kubernetes 클러스터 구축하기(실제로는 k3s) [바로가기](/posts/k3s-installation)
   - helm 설치 [바로가기](/posts/helm-installation)
   - 외부 배포용 ingress-controller 설치 [바로가기](/posts/ingress-controller)
-  - SSL 인증서 갱신을 위한 cert-manager 설치
+  - SSL 인증서 갱신을 위한 cert-manager 설치 [바로가기](/posts/cert-manager)
 - [ ] Rancher 구축하기
 - [ ] Harbor 구축하기
   - docker hub registry 연결
