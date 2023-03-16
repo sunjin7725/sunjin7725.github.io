@@ -1,7 +1,7 @@
 ---
 title: K3S 설치하기
 categories: [kubernetes]
-tags: [kubernetes, mlflow, mlops, devops]
+tags: [kubernetes, mlops, devops, k3s]
 comments : true
 ---
 

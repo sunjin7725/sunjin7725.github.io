@@ -1,7 +1,7 @@
 ---
 title: Cert Manager 설치하기
 categories: [kubernetes]
-tags: [kubernetes, mlflow, mlops, devops, ingress]
+tags: [kubernetes, mlops, devops, ssl]
 comments: true
 ---
 
