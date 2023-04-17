@@ -24,7 +24,7 @@ comments : true
   - helm 설치 [바로가기](/posts/helm-installation)
   - 외부 배포용 ingress-controller 설치 [바로가기](/posts/ingress-controller)
   - SSL 인증서 갱신을 위한 cert-manager 설치 [바로가기](/posts/cert-manager)
-- [ ] Rancher 구축하기
+- [x] Rancher 구축하기 [바로가기](/posts/rancher)
 - [ ] Harbor 구축하기
   - docker hub registry 연결
 - [ ] Jenkins 구축하기
