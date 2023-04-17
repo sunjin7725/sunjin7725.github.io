@@ -47,3 +47,9 @@ curl https://raw.githubusercontent.com/sunjin7725/harbor-installation-shell/mast
 참고자료  
 - [https://goharbor.io/docs/2.8.0/](https://goharbor.io/docs/2.8.0/)
 - [https://velog.io/@tkfrn4799/harbor-private-docker-registry](https://velog.io/@tkfrn4799/harbor-private-docker-registry)
+
+## 사용방법
+설치가 다된 후에 다음 명령어를 입력하면 사용할 수 있다.
+```bash
+docker login ${harbor registry url}
+```

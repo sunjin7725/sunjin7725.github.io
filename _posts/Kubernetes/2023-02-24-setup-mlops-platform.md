@@ -25,7 +25,7 @@ comments : true
   - 외부 배포용 ingress-controller 설치 [바로가기](/posts/ingress-controller)
   - SSL 인증서 갱신을 위한 cert-manager 설치 [바로가기](/posts/cert-manager)
 - [x] Rancher 구축하기 [바로가기](/posts/rancher)
-- [ ] Harbor 구축하기
+- [x] Harbor 구축하기
   - docker hub registry 연결
 - [ ] Jenkins 구축하기
   - 깃허브와 연동하기
