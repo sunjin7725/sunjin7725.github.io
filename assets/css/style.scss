@@ -10,3 +10,10 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+ins.adsbygoogle a {
+  display: none !important;
+}
+ins.adsbygoogle[data-ad-status="unfilled"] a {
+  display: block;
+}
