@@ -110,7 +110,7 @@ abcdefghijklmnopqrstuvwxyz
 Java와 최근 개발되고 있는 언어들은 모두 해당 작업을 차용하고 있는데, 그 이유를 보면 C나 C++의 경우 가비지 컬렉터가
 존재하지 않는다. 그래서 개발을 함에 있어, 동적 메모리 영역을 할당하고 사용 이후에는 항상 해제해주는 코드가 필요하다.
 
-```C
+```c
 void main(){
     int array_size = 300;
     int* int_array = (int*)malloc(sizeof(int)*size);
