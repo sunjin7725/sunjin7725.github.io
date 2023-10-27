@@ -5,7 +5,6 @@ tags: [Go, Language]
 comments : true
 ---
 
-
 # Go 언어란?
 
 ![GoLang](/assets/img/post/golang.png)  
