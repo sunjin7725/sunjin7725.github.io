@@ -13,7 +13,7 @@ comments : true
 - 활용데이터는 아래와 같음  
   [식품의약품안전처 식품영양성분DB](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
 - 개발 현재 진행 중(2023-09-25 ~ 2023-10-27)
-- 추가 예정부분은 천천히 추가할수도 있음
+- 추가 예정부분은 천천히 추가할수도 있음    
 
 ## 개발환경
 
@@ -32,7 +32,6 @@ Language: Go 1.21.1
 
 ### 기능 추가가 된다면
 
-- Golang CGI
 - Postgresql
 
 ## 개발 기능
@@ -49,5 +48,4 @@ Language: Go 1.21.1
 
 ### 추가예정(?)
 
-- [ ] CGI 연결하여 배포
 - [ ] 별도 배치 프로그램을 작성하여, 데이터를 Postgresql에 저장하고 DB에서 결과를 끌어오도록 변경
