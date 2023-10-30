@@ -9,6 +9,8 @@ comments : true
 
 ## 개요
 
+Git: [https://github.com/sunjin7725/api-call-test](https://github.com/sunjin7725/api-call-test)
+
 - Go를 공부하고 공공 데이터를 불러오는 Restful API 개발  
 - 활용데이터는 아래와 같음  
   [식품의약품안전처 식품영양성분DB](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
