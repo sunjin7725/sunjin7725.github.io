@@ -15,7 +15,7 @@ Git: [https://github.com/sunjin7725/api-call-test](https://github.com/sunjin7725
 - 활용데이터는 아래와 같음  
   [식품의약품안전처 식품영양성분DB](https://www.foodsafetykorea.go.kr/api/newDatasetDetail.do)
 - 개발 현재 진행 중(2023-09-25 ~ 2023-10-27)
-- 추가 예정부분은 천천히 추가할수도 있음    
+- 추가 예정부분은 천천히 추가할수도 있음  
 
 ## 개발환경
 

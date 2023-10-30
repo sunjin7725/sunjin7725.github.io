@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: Seonjin`s Tech Blog                          # the main title
 
-tagline: Data Scientist in KCNET Co.Ltd   # it will display as the sub-title
+tagline: Data Scientist at KCNET Co.Ltd   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Writing Tech
