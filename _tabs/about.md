@@ -4,40 +4,158 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip } -->
+## 데이터 분석을 업무에 연결하는 Data & AI Engineer, 김선진입니다.
 
+**관세·세무 분야의 데이터를 분석모델과 서비스로 구현하는 일을 합니다.** 2020년부터 관세청과 국세청 프로젝트에서 소득 구분 판별, 환급 문서 분석, 유사 문서 검색 등 업무에 필요한 분석모델과 서비스를 개발해 왔습니다.
 
-### "안녕하세요👋 
-### &nbsp; ML/AI 엔지니어가 되고 싶은 김선진 입니다.".
-  3년차 데이터 사이언티스트로 일하고 있는 김선진입니다.  
-  `Python` / `ML/AI` / `MLOps` / `Backend` / `BigData` 관련 지식을 주로 공부하며 다른 이들에게 지식을 잘 설명하는 ML/AI 엔지니어가 목표입니다.
+현재 **오케스트로 빅데이터서비스팀**에서 관세청 빅데이터 플랫폼의 **Python 분석모델 유지보수**와 **폐쇄망 LLM 운영·Agent 개발을 통한 업무 AX(AI 전환) 지원**을 담당하고 있습니다.
 
-Mail To : sunjin7725@gmail.com
+이 블로그에는 데이터 분석과 AI 서비스를 개발·운영하며 마주한 문제와 해결 과정을 기록합니다.
 
-#### 약력
+## 주요 업무
 
-2020 ~ / Data Scientist in KCNET  
-2018 ~ 2020 / 충북대학교 정보통신공학부 석사 졸업  
-2012 ~ 2018 / 충북대학교 정보통신공학부 학부 졸업  
-<br>
+- **분석모델 개발·유지보수** — 업무 데이터를 바탕으로 판별·비교·검색 로직을 구현하고, 기존 Python 분석모델을 유지보수합니다.
+- **데이터 서비스 구현** — OCR 결과 후처리, 데이터베이스 비교, 검색 시스템과 API 연계를 통해 데이터를 업무에 활용할 수 있도록 연결합니다.
+- **LLM 운영·Agent 개발** — 폐쇄망에서 LLM을 운영하고, 업무 활용을 위한 Agent를 개발합니다.
 
-#### 참여 사업
+## 경력
 
-Detail: [Notion Portfolio](https://sunjin7725.notion.site/Seonjin-Kim-dc078f7325f342f99d6b7a9aaf6881c7){:target="_blank"}
+### 오케스트로 주식회사
 
-2022.04 ~ 2022.12 / 2022년 빅데이터 플랫폼 고도화 및 분석모델 개발(KCNET) - 해외기업통합정보(Orbis) 검색 시스템 & 해외관세동향 크롤링   
-2021.05 ~ 2022.01 / 2021년 빅데이터 플랫폼 기반 분석모델 개발 - Elastic Search 및 Python ML을 통한 유사 문서 검색 서비스  
-2020.06 ~ 2021.04 / 2020년 빅데이터시스템 구축 및 분석모델 개발 - 네트워크 분석을 통한 기업 공급망  
-2018 ~ 2019 / 흉부 X-ray의 딥러닝을 통한 폐렴, 기흉 등의 병변 검출 프로그램(충북대학교 산학협력단 / 중소벤처기업부)  
-2019 / 실험실 창업 탐색팀: 음파상쇄 간섭을 이용한 소음억제기(KAIST / 한국연구재단)  
-2017 ~ 2018 / Hall Seonsor Matrix를 이용한 골프 퍼팅 장치(충북대학교 산학협력단 / 중소기업청)  
+**2024.07 ~ 현재 · Data & AI Engineer**
 
-<br>
+### (주)케이씨넷 · KCNET
 
-#### 논문
+**2020.06 ~ 2024.07 · Data Scientist**
 
-<a href='http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=60ce940b0cfdfd43ffe0bdc3ef48d419' target="_blank">딥러닝 네트워크에서 주 객체의 위치 검출 성능 개선</a> / 충북대학교 / 학위논문(석사) / 김선진 <br>
-<a href="http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=adf1c1880922328e4884a65323211ff0" target="_blank">주 객체 위치 검출을 위한 Grad-CAM 기반의 딥러닝 네트워크</a> / 한국정보통신학회 / 한국정보통신학회지 Vol.24 No.2 [2020] / 김선진, 이종근, 곽내정, 류성필, 안재형<br>
-<a href="http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=d7aa09d47a7163537f7a54760bb41745" target="_blank">흉부 디지털 영상의 병변 유무 판단을 위한 딥러닝 모델</a> / 한국정보통신학회 / 한국정보통신학회지 Vol.24 No.2 [2020] / 이종근, 김선진, 곽내정, 김동우, 안재형<br>
-<a href="http://www.pphmj.com/abstract/13606.htm" target="_blank">DEEP LEARNING NETWORK FOR MAIN OBJECT DETECTION COMBINING VGG NETWORK AND GRAD-CAM(http://dx.doi.org/10.17654/HMSIII20089)</a> / JP Journal of Heat and Mass Transfer(Scopus) / Special Issue II, Advances in Mechanical System and ICT-Convergence, Pages 89 - 98 (December 2020) / Nae Joung Kwak, Sun Jin Kim and Dong Ju Kim
+## 주요 참여 사업
+
+### Python 분석모델 유지보수와 폐쇄망 LLM·Agent 개발
+
+**2026 ~ 현재 · 관세청**
+
+2026년 관세청 빅데이터플랫폼 유지보수 사업
+
+- 기존 관세청 빅데이터 플랫폼의 Python 분석모델 유지보수
+- 폐쇄망 환경의 LLM 운영 및 Agent 개발을 통한 관세청 업무 AX 지원
+
+### 징세·복지 업무 분석모델 개발
+
+**2025.03 ~ 2025.12 · 국세청**
+
+2025년 빅데이터 활용분석모델 개발사업
+
+- 징세·복지 업무 관련 분석모델 개발 참여
+
+### 기타소득 신고 내역의 사업소득 여부 판별
+
+**2024.07 ~ 2024.12 · 국세청**
+
+2024년 빅데이터 활용 분석모델 개발 사업
+
+- 개인소득세에서 기타소득으로 신고된 내역 중 사업소득에 해당하는 사례를 판별하는 분석모델 개발
+
+### Spring 업그레이드에 따른 OpenAPI 연계 기능 전환
+
+**2024.02 ~ 2024.07 · 관세청**
+
+전자통관시스템 전산장비 전면교체 및 전환사업
+
+- 전자정부프레임워크 기반 시스템의 Spring 버전 업그레이드 과정에서 연계 영역 담당
+- 관세청 OpenAPI 연계 기능 전환 및 변경된 시스템 환경에 대한 호환성 대응
+
+### 환급 문서 OCR 후처리 및 데이터베이스 비교
+
+**2023.04 ~ 2023.12 · 관세청**
+
+2023년 빅데이터 플랫폼 기반 분석모델 개발 사업
+
+- 환급정보분석 모델 개발
+- 환급 문서의 OCR 결과 후처리 및 실제 데이터베이스 정보와 비교하는 분석 로직 구현
+
+### 해외기업 정보 검색과 관세 동향 데이터 수집
+
+**2022.04 ~ 2022.12 · 관세청**
+
+2022년 빅데이터 플랫폼 고도화 및 분석모델 개발
+
+- 해외기업통합정보(Orbis) 검색 시스템 개발
+- 해외 관세 동향 데이터 크롤링
+
+### 머신러닝 기반 유사 문서 검색 서비스
+
+**2021.05 ~ 2022.01 · 관세청**
+
+2021년 빅데이터 플랫폼 기반 분석모델 개발
+
+- Elasticsearch와 Python 기반 머신러닝을 활용한 유사 문서 검색 서비스 개발
+
+### 네트워크 기반 기업 공급망 분석
+
+**2020.06 ~ 2021.03 · 관세청**
+
+2020년 빅데이터시스템 구축 및 분석모델 개발
+
+- 네트워크 분석을 통한 기업 공급망 분석
+
+## 연구 및 산학협력 프로젝트
+
+### 음파 상쇄 간섭을 이용한 소음억제기
+
+**2019 · KAIST / 한국연구재단**
+
+- 실험실 창업 탐색팀 참여
+
+### 흉부 X-ray 기반 병변 검출 프로그램
+
+**2018 ~ 2019 · 충북대학교 산학협력단 / 중소벤처기업부**
+
+- 딥러닝을 활용한 폐렴·기흉 등 병변 검출 프로그램 개발 참여
+
+### Hall Sensor Matrix를 이용한 골프 퍼팅 장치
+
+**2017 ~ 2018 · 충북대학교 산학협력단 / 중소기업청**
+
+- Hall Sensor Matrix 기반 골프 퍼팅 장치 개발 참여
+
+## 학력
+
+- **충북대학교 대학원 · 정보통신공학 석사** — 2018 ~ 2020
+- **충북대학교 · 정보통신공학부 학사** — 2012 ~ 2018
+
+## 자격증
+
+- **빅데이터분석기사** — 2021.12.31 · 한국데이터산업진흥원
+- **정보처리기사** — 2021.11.26 · 한국산업인력공단
+
+## 논문
+
+### [딥러닝 네트워크에서 주 객체의 위치 검출 성능 개선](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=60ce940b0cfdfd43ffe0bdc3ef48d419)
+
+**충북대학교 · 석사 학위논문**
+
+- 저자: 김선진
+
+### [주 객체 위치 검출을 위한 Grad-CAM 기반의 딥러닝 네트워크](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=adf1c1880922328e4884a65323211ff0)
+
+**2020 · 한국정보통신학회지 · Vol.24 No.2**
+
+- 저자: 김선진, 이종근, 곽내정, 류성필, 안재형
+
+### [흉부 디지털 영상의 병변 유무 판단을 위한 딥러닝 모델](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=d7aa09d47a7163537f7a54760bb41745)
+
+**2020 · 한국정보통신학회지 · Vol.24 No.2**
+
+- 저자: 이종근, 김선진, 곽내정, 김동우, 안재형
+
+### [Deep Learning Network for Main Object Detection Combining VGG Network and Grad-CAM](http://www.pphmj.com/abstract/13606.htm)
+
+**2020.12 · JP Journal of Heat and Mass Transfer (Scopus)**
+
+- Special Issue II: Advances in Mechanical System and ICT-Convergence, pp. 89–98
+- 저자: Nae Joung Kwak, Sun Jin Kim, Dong Ju Kim
+- DOI: 10.17654/HMSIII20089
+
+## 연락처 및 링크
+
+[이메일](mailto:sunjin7725@gmail.com) · [GitHub](https://github.com/sunjin7725) · [LinkedIn](https://www.linkedin.com/in/kim-seonjin-336541167) · [Notion Portfolio](https://sunjin7725.notion.site/Seonjin-Kim-dc078f7325f342f99d6b7a9aaf6881c7)

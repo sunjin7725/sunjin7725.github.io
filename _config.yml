@@ -21,10 +21,10 @@ timezone: Asia/Seoul
 
 title: Seonjin`s Tech Blog                          # the main title
 
-tagline: Data Scientist at KCNET Co.Ltd   # it will display as the sub-title
+tagline: Data & AI Engineer at OKESTRO   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Writing Tech
+  데이터 분석과 빅데이터 서비스 개발, LLM과 AI 서비스 운영 경험을 기록하는 김선진의 기술 블로그
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sunjin7725.github.io'
@@ -172,6 +172,9 @@ defaults:
 
 sass:
   style: compressed
+  # Chirpy 5.5.2 uses legacy imports; remove after migrating to Sass modules.
+  silence_deprecations:
+    - import
 
 compress_html:
   clippings: all
