@@ -32,16 +32,16 @@ RAG를 처음 연결하면 질문과 비슷한 문서가 검색되는지만 확�
 
 ```mermaid
 flowchart LR
-    A[원본 문서] --> B[파싱·정제]
+    A[원본 문서] --> B["파싱·정제"]
     B --> C[Chunk 분할]
-    C --> D[색인·메타데이터]
+    C --> D["색인·메타데이터"]
     E[사용자 질문] --> F[검색 질의]
     F --> G[후보 검색]
     D --> G
-    G --> H[Reranking·필터링]
+    G --> H["Reranking·필터링"]
     H --> I[최종 문맥 구성]
     I --> J[LLM 답변 생성]
-    J --> K[출처·업무 검증]
+    J --> K["출처·업무 검증"]
 ```
 
 Hugging Face의 Advanced RAG 예제도 Chunk 크기, 검색 개수, Embedding 모델, Reranking, 프롬프트와 Reader 모델처럼 조정할 부분이 많다고 설명한다. [Advanced RAG 공식 예제](https://huggingface.co/learn/cookbook/advanced_rag)
@@ -197,12 +197,12 @@ Advanced RAG 예제는 넓게 후보를 검색한 뒤 더 강한 모델로 재�
 ```mermaid
 flowchart TD
     A[최종 답변 오류] --> B{정답 근거가 최종 문맥에 있는가?}
-    B -->|예| C[프롬프트·Reader·인용 검증 확인]
+    B -->|예| C["프롬프트·Reader·인용 검증 확인"]
     B -->|아니오| D{1차 검색 후보에는 있는가?}
-    D -->|예| E[Reranking·필터·문맥 잘림 확인]
+    D -->|예| E["Reranking·필터·문맥 잘림 확인"]
     D -->|아니오| F{색인된 Chunk에 정답이 있는가?}
-    F -->|예| G[질의·Embedding·검색 방식 확인]
-    F -->|아니오| H[파싱·OCR·Chunk·색인 갱신 확인]
+    F -->|예| G["질의·Embedding·검색 방식 확인"]
+    F -->|아니오| H["파싱·OCR·Chunk·색인 갱신 확인"]
 ```
 
 이 방식은 생성 모델부터 교체하는 시행착오를 줄인다. 정답 근거가 색인에조차 없다면 더 큰 모델을 사용해도 원문 기반 답변은 만들 수 없다.
